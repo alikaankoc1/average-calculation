@@ -1,0 +1,78 @@
+body{
+    background-color: rgb(118, 123, 138);
+}
+.main{
+    width: 60%;
+    margin-left: 350px;
+    
+}
+.nots{
+    height: 450px;
+    background-color: white;
+    position: relative;
+    top: 150px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+}
+.vize{
+    input{
+        font-size: 15px;
+        text-align: center;
+        border: 1px solid black;
+        height: 35px;
+        border-radius: 15px;
+        outline: none;
+    }
+}
+.final{
+    input{
+        font-size: 15px;
+        text-align: center;
+        height: 35px;
+        border: 1px solid black ;
+        border-radius: 15px;
+        outline: none;
+    }
+}
+.proje{
+    input{
+        font-size: 15px;
+        text-align: center;
+        height: 35px;
+        border: 1px solid black ;
+        border-radius: 15px;
+        outline: none;
+    }
+}
+#addBtn{
+    height: 45px;
+    width: 120px;
+    border-radius: 5px;
+    border: 1px solid black;
+    cursor: pointer;
+    font-size: 15px;
+    margin-top: 10px;
+}
+#ortalama{
+    background-color:rgb(118, 123, 138); 
+    width: 150px;
+    text-align: center;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+    height: 35px;
+    padding-top: 5px;
+}
+#harfNote{
+    background-color:rgb(118, 123, 138); 
+    width: 150px;
+    text-align: center;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+    height: 35px;
+    padding-top: 5px;
+}
